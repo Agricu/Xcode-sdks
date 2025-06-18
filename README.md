@@ -4,7 +4,7 @@ iOS 低版本升级Xcode14.3后会报错：File not found: .../lib/arc/libarclit
 
 解决方法：
 
-https://github.com/Agricu/libarclite_files[https://github.com/Agricu/libarclite_files]
+https://github.com/Agricu/libarclite_files
 
 1、下载arc文件，或者拷贝低版本Xcode的arc源文件。
 
